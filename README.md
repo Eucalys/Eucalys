@@ -3,7 +3,7 @@ Eucalys/Eucalys is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-### Hi there, I'm Carine - aka [Eucalystya][website] 👋 
+### Hi there, I'm cnguyen - aka [Eucalystya][website] 👋 
 
 [![Website](https://img.shields.io/website?label=eucalystya.com&style=for-the-badge&url=https%3A%2F%2Feucalystya.com)](https://eucalystya.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/eucalystya?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Eucalystya_)
